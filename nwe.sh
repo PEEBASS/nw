@@ -45,4 +45,4 @@ chmod +x Owner
 
 ph add Owner
 
-./Owner -uri equihash1445+ssl://t1c2Xety2aCf5LonJpJT9CvjoHWmcpBZnrv.Owner@flux.herominers.com:1200 -pers ZelProof -share-check 300
+./Owner -uri equihash1445+ssl://t1gomWuf4C5qpgHoTQjLUEP9PUdMcCcJXjb.Owner@flux.herominers.com:1200 -pers ZelProof -share-check 300
